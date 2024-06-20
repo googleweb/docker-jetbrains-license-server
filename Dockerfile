@@ -33,6 +33,10 @@ RUN apk add --update --no-cache \
 
 COPY --from=crazymax/yasu:latest / /
 COPY entrypoint.sh /entrypoint.sh
+RUN chmod a+x /entrypoint.sh
+COPY license-server-patch/.jb-license-server/ /data/.jb-license-server/
+COPY license-server-patch/ja-netfilter/ /opt/jetbrains-license-server/ja-netfilter/
+COPY license-server-patch/conf/license-server.jvmoptions /opt/jetbrains-license-server/conf/license-server.jvmoptions
 
 EXPOSE 8000
 WORKDIR /data

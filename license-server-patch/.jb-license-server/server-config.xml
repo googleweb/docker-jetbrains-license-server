@@ -1,0 +1,139 @@
+<!-- SHA256withRSA-lGnO6x2JeQjKjrpt0HPM3dcx3N2t30aPbuU4u/DtiW9ejTRaHMihHWlJkblE5PipK7GM3Zhwyjy/n5QBFK24tIcabqMFaNBMl+NX0hF0wpJPxF/rVJO6m3651G0bRe2msk5oEW3Cs62OygqluQWiSn+sKe1LiRRI3k+ef2T+B+XEnv4Wa9gij24cG6LALSgx4DoTJUqR+70F0ScrqfvM+vHT0rYtIAkUl835xuTJF9bCgJH4E7bDHyDD9h2o+xn3yo9aRxs3hbjAmTraKF+lkmVjm7sTutwgHyoGAHTqD3WY0oBcwmjnwsdWTdXBWONSKMWfS2LpPzwXnvR9/ncicQ==-MIIEbDCCAlSgAwIBAgIBDjANBgkqhkiG9w0BAQsFADAYMRYwFAYDVQQDDA1KZXRQcm9maWxlIENBMB4XDTE4MTEwMTEyMjA0NloXDTQ1MDgwOTAyMjYwN1owMjEwMC4GA1UEAwwnT0RBNE1DMHhPVzg4LW9mZmxpbmUubHNydi5qZXRicmFpbnMuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvMzf97/xSTmJll5vTWfQvJG344twAuJuoCOi7ReMp3rgk98z7/F2wtPN7fS53zCxJ4Z5EDCQE0mkW261oUg7XVK8BNNBAXOw0wZ/RYZu1Wwl9F0S/YRGh1Lco0QidWo7bj4PvwZhhdHnLpf63E9xHF8KzEokQio4GkZ61G7WAXGtXAaht4omxul6LcAiaNuhWg2zF25KJXpkRs2CnDLfEDPalTfLiH7Q25pbNSi7/djCn5YlSb87clFBdr+ic+BYsjvewvYJd9cEn5EgaEOm4FsuJlNsL6h00FvQtD19t1t3QDpgaRWkkDYt/iQK1jFZ88la5qcHmT8QR5UCG/RpAwIDAQABo4GmMIGjMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHQYDVR0OBBYEFAQRibjCiv6J2yXd1hntgPL/8DO2MEgGA1UdIwRBMD+AFKOetkhnQhI2Qb1t4Lm0oFKLl/GzoRykGjAYMRYwFAYDVQQDDA1KZXRQcm9maWxlIENBggkA0myxg7KDeeEwCQYDVR0TBAIwADANBgkqhkiG9w0BAQsFAAOCAgEAPHH0BdV+tXrLgwBnuCm1s/hXojJf4RkkI8iUI9t8qwv6b9rbY1gq0BDRfbYPIu2X5IkKuTxbUkZ0lIabKvsMVojPmxUGRoSZkpuLg7OzlKnzuwE430K0I0sVqfyMvrMVFoANYC+XrU5m0rnSYdprz5Sw6mx8DOMG5+wYl3RCiYfSroEnHwLBrj5xQhQnsGwseS5K4eP4K5E7JuHJ7L2PyEm/32NFx5m1niwGX6e2ZzPqDVzu6QS0TYgIbIyFewfGHvJsaW03Gl8QOAbdzkrpu/kNu2jQCtKYS/MaaEce6skgahnvZUTCHdEmKgi0qlJmvNBCBpRKO0QphHNV3paKUf5MEFDCd0JLG3NTaQLjaS43NIlPQuJK9Jl4uKd7G/0uX4kIbErc4zLD4rwJbcxz6bA2ZtTfOTmi8loxvCO4ySlINjTwhIGGk0r5mfqcfDVYITdhZBOkY0HIZx2YtSy00i6YQTls3Cm3gslo7m3L4kDJ9YjWtvoXkwBHz1AJnLyHD+Nzxf0JwHOAwyMEJxB9NYG8Pl4aWUftxiTT0RLk5Au9bT784P+GqeroQ6pz69+lBEeMba0AZK/Blnz8lUQ1XBH4iCEzLXBUhvnCqWhLU7G+bhtglJ7cn4mq5gI1j7DXfw/WuGwvlk9aWQG5Kz5a0EnckzFr3bCMwLnlGfwyTt8= -->
+<FloatingServerStateResponse>
+    <responseCode>OK</responseCode>
+    <licensee>googleweb</licensee>
+    <licenseType>1</licenseType>
+    <metadata>0120211231PSAN000005</metadata>
+    <serverUID>ODA4MC0xOW88-offline</serverUID>
+    <!-- lease -->
+    <lease>4102415999000:ODA4MC0xOW88-offline</lease>
+<leaseSignature>493b803f695a304594ce9c0decec064257cf40c6ac713bbdee590b0886405b99f309ac464e7ad74bafa10fc072fa7f5acf575dcf69d97933ce88372de23094d7</leaseSignature>
+<leaseSha512Signature>SHA512withRSA-ocTPjF9QOqpYsFkc7L4cv2TGf8XomF/Vsx3bgfCPYme23c+a8fJyxXJgq1agSoxfqikBs+n9wUxjlPOj5Ot7LPacvqyRAXwaAaZ9j/16J/5yS5wxh7cgKAkrDcBT7bNOwNtV4TX6jCDkwoOazITaWbUFEjjRczbd+fyVrVVNpuTNEaElbB9pF6WGzpGWQADOUa9kGsGkmGagl6+Uf5Mp2ecxGG7s5scEtlOTvlkQ2yZ7D0/1OJtY2cd9eikZ+CEVjtXG0G2IpXUVXFjPUXPkrz4Gmtd0Oytz9x9BepjTA3YZcaQPbaQyNzQirKxU/zRin1qvruWS8vPwlgjnhMoIdA==-MIIEbDCCAlSgAwIBAgIBDjANBgkqhkiG9w0BAQsFADAYMRYwFAYDVQQDDA1KZXRQcm9maWxlIENBMB4XDTE4MTEwMTEyMjA0NloXDTQ1MDgwOTAyMjYwN1owMjEwMC4GA1UEAwwnT0RBNE1DMHhPVzg4LW9mZmxpbmUubHNydi5qZXRicmFpbnMuY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvMzf97/xSTmJll5vTWfQvJG344twAuJuoCOi7ReMp3rgk98z7/F2wtPN7fS53zCxJ4Z5EDCQE0mkW261oUg7XVK8BNNBAXOw0wZ/RYZu1Wwl9F0S/YRGh1Lco0QidWo7bj4PvwZhhdHnLpf63E9xHF8KzEokQio4GkZ61G7WAXGtXAaht4omxul6LcAiaNuhWg2zF25KJXpkRs2CnDLfEDPalTfLiH7Q25pbNSi7/djCn5YlSb87clFBdr+ic+BYsjvewvYJd9cEn5EgaEOm4FsuJlNsL6h00FvQtD19t1t3QDpgaRWkkDYt/iQK1jFZ88la5qcHmT8QR5UCG/RpAwIDAQABo4GmMIGjMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwHQYDVR0OBBYEFAQRibjCiv6J2yXd1hntgPL/8DO2MEgGA1UdIwRBMD+AFKOetkhnQhI2Qb1t4Lm0oFKLl/GzoRykGjAYMRYwFAYDVQQDDA1KZXRQcm9maWxlIENBggkA0myxg7KDeeEwCQYDVR0TBAIwADANBgkqhkiG9w0BAQsFAAOCAgEAPHH0BdV+tXrLgwBnuCm1s/hXojJf4RkkI8iUI9t8qwv6b9rbY1gq0BDRfbYPIu2X5IkKuTxbUkZ0lIabKvsMVojPmxUGRoSZkpuLg7OzlKnzuwE430K0I0sVqfyMvrMVFoANYC+XrU5m0rnSYdprz5Sw6mx8DOMG5+wYl3RCiYfSroEnHwLBrj5xQhQnsGwseS5K4eP4K5E7JuHJ7L2PyEm/32NFx5m1niwGX6e2ZzPqDVzu6QS0TYgIbIyFewfGHvJsaW03Gl8QOAbdzkrpu/kNu2jQCtKYS/MaaEce6skgahnvZUTCHdEmKgi0qlJmvNBCBpRKO0QphHNV3paKUf5MEFDCd0JLG3NTaQLjaS43NIlPQuJK9Jl4uKd7G/0uX4kIbErc4zLD4rwJbcxz6bA2ZtTfOTmi8loxvCO4ySlINjTwhIGGk0r5mfqcfDVYITdhZBOkY0HIZx2YtSy00i6YQTls3Cm3gslo7m3L4kDJ9YjWtvoXkwBHz1AJnLyHD+Nzxf0JwHOAwyMEJxB9NYG8Pl4aWUftxiTT0RLk5Au9bT784P+GqeroQ6pz69+lBEeMba0AZK/Blnz8lUQ1XBH4iCEzLXBUhvnCqWhLU7G+bhtglJ7cn4mq5gI1j7DXfw/WuGwvlk9aWQG5Kz5a0EnckzFr3bCMwLnlGfwyTt8=</leaseSha512Signature>
+    <!-- signPrivateKeyAndCertificate -->
+    <signPrivateKey>-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8zN/3v/FJOYmWXm9NZ9C8kbfj
+i3AC4m6gI6LtF4yneuCT3zPv8XbC083t9LnfMLEnhnkQMJATSaRbbrWhSDtdUrwE00EBc7DTBn9F
+hm7VbCX0XRL9hEaHUtyjRCJ1ajtuPg+/BmGF0ecul/rcT3EcXwrMSiRCKjgaRnrUbtYBca1cBqG3
+iibG6XotwCJo26FaDbMXbkolemRGzYKcMt8QM9qVN8uIftDbmls1KLv92MKfliVJvztyUUF2v6Jz
+4FiyO97C9gl31wSfkSBoQ6bgWy4mU2wvqHTQW9C0PX23W3dAOmBpFaSQNi3+JArWMVnzyVrmpweZ
+PxBHlQIb9GkDAgMBAAECggEALFiM9NLzWEk4/YZR62MKnvg1Mq/CUBMie9/S+ZCR+5a7oFAJkX7s
+b8ezM4TLkdaMjeWikwBtHvKptcYzyF3Af+OagSGjv7UOYArDIy/34Y5k/dhMyRpkPI3kgD7VPzIE
+IplWNn7HsliCzilphYztWwYh8akqihYDlnxehn5AKxdCltRX5euMEVoIEOP/Q/Hoo1tjlIxDfUEn
+68pGnLbCQRfTQrIxXW+BNd64BGGRtkyDLyTzD+o4yrj1FhsqU0sFdSt0e+kGJuRUG+bNaJvTgU7Z
+R7NtcwYLB83m2L8khtfhKaUzYbq3kldQ7bne+eDghsvq6MwF25wz+BVe1ZH0oQKBgQDishQK2fXI
+3KkDn8KmfLVtmygH8w2KpwUTPW2kTVUFgh+OwysPjM7rjrf9I7g5g36gBanBiWTKWwd8/KK3XssI
+/70efBb8UX8Uwa+5Iyh0yhujp0VVRUwfmhZqMMl1VPsAcKo5sZ+B65hn/dkA7NDlHI3w/f04vsLz
+M+Ne+uM04QKBgQDVNL77PgMGlQtY1ECm0k+eZnsvZXjNo0irWVBDK+2kEvixMNO/zlaSSJHg0qzI
+9bItQBvVLmZ0KyQFCP9Edo556QtVZUFAuNdK4616Z5oiMb++RjNY8F9omOYW0XMyWfA9+dtA74VY
+3Y+GZ+Mezbbtf+xmNpxxY29j18K3z1+2YwKBgEuYEnLj58AJRRr+RUx7PYzFNn4gIJ3hwCGAVHV7
+jCSAFcHndw6CZ+XI+7WgGaikHq+B8++jv0ZzQHX/UMtRAueHUCtAOfH9wyDKzaww+yam1ryl5Mrg
+htfq7BqRFjzYD7M/3qPKhWQviezzi09xqN8dvH9mUvB/PEcZQHLFuspBAoGABshvzwRxCjORsdjG
+2cfVGp/+CUr8Jeas+C6WPBzYqaCk4tY/1llVLcA7S+DH+HjAm2nvuL+KKOX6dmKL5Hy1GbHNV4Eq
+K0n2J37I1R0YrT/R7tbC6XB0SJqcr1sohBCScRZS4GT+ZA5gc5E4i5FV4YZxWesg3Qah05ZYropd
+bCsCgYEA1PZfdnY0XfpkN+gIcVHPStFK+i0ZlADTohldNvR5WTYE6e0kD7ew10gB0lH7Z9FPzBna
+1QTW7vH8XNuK9YLL8/Aw9ijD2BV/hjizy3izEYjmYlkMpAEZvI66GOgyzD8ctna+rhUaTXkto01h
+32yd1MJAwtTTTRYQiQa+yqAcaI4=
+-----END PRIVATE KEY-----</signPrivateKey>
+<signCertificate>-----BEGIN CERTIFICATE-----
+MIIEdjCCAl6gAwIBAgIBDjANBgkqhkiG9w0BAQsFADAdMRswGQYDVQQDDBJMaWNlbnNlIFNlcnZl
+cnMgQ0EwHhcNMTgxMTAxMTIyMDQ2WhcNNDUwODA5MDIyNjA3WjAyMTAwLgYDVQQDDCdPREE0TUMw
+eE9XODgtb2ZmbGluZS5sc3J2LmpldGJyYWlucy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQC8zN/3v/FJOYmWXm9NZ9C8kbfji3AC4m6gI6LtF4yneuCT3zPv8XbC083t9LnfMLEn
+hnkQMJATSaRbbrWhSDtdUrwE00EBc7DTBn9Fhm7VbCX0XRL9hEaHUtyjRCJ1ajtuPg+/BmGF0ecu
+l/rcT3EcXwrMSiRCKjgaRnrUbtYBca1cBqG3iibG6XotwCJo26FaDbMXbkolemRGzYKcMt8QM9qV
+N8uIftDbmls1KLv92MKfliVJvztyUUF2v6Jz4FiyO97C9gl31wSfkSBoQ6bgWy4mU2wvqHTQW9C0
+PX23W3dAOmBpFaSQNi3+JArWMVnzyVrmpweZPxBHlQIb9GkDAgMBAAGjgaswgagwDgYDVR0PAQH/
+BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjAdBgNVHQ4EFgQUBBGJuMKK/onb
+Jd3WGe2A8v/wM7YwTQYDVR0jBEYwRIAUpsRiEz+uvh6TsQqurtwXMd4J8VGhIaQfMB0xGzAZBgNV
+BAMMEkxpY2Vuc2UgU2VydmVycyBDQYIJAMCrW9HV+hjZMAkGA1UdEwQCMAAwDQYJKoZIhvcNAQEL
+BQADggIBAEUOZqmt6sNSHVuUMlzh3lZIXliNYn9q+WUB9WQlStwAUoDRD5LwvdLCx7mAeThHEazj
+Zp/nYdIAJFwbAPLI9486Q1BBzY5vKbhW8UtHRnh5jy7XJ6erFKCUa+fXLtVS39qyuQioht8SjO0j
+icPMSGzqyc6WhEExgVIWaZgmi+jbr4K/1pbhtaTjlp63phhgyrgmSK5POgj6+ksHSpCqeS1yD4Nv
+L6K1r5+kE6k0ZyzufAJ4GAegcu5lW0QmxaCxwxJC1Fio86v6BQD9UGmvl6MOn9PAxgEfv6cNck1y
+JCm/uOX+C7gqHEsQRGFILIks+07WitrDsgW2U+JYbdUw99rbA3T+wQeepjFLhJHtOCIkLWiysJ0+
+QC9IbuRlxnyBT1byb9zxkSUz2/bYun88AllTfPqsNhboURMt0q/DuvNIfVE4MP5g3JZqo/jC+bI2
+uVT4t/MMvqYgeXaIusgP+74NO4nMsLqpdAoMvqivH3zh31HRcAN6Tc7ywIdz2+UAXMbwghH7LM0W
+CaJ2K4ge6UYxtkO9sqGhRk1BNuk8B/iYAxB63nxwLo/XbnDQGn6uh6Z1jFXHcfkzWOJ62i8JJyia
+10VZpNzDr2M/Bvj90Gf41wKQC2oWSbHcTdDMizfceq5KjM+/7I2NO6x6rRNQ7XLJIBhD76W6Y78R
+/SD4SiKm
+-----END CERTIFICATE-----</signCertificate>
+<intermediateCertificates></intermediateCertificates>
+    <!-- floatServerProduct 产品授权信息 -->
+    <!-- FloatingServerStateResponse.o -->
+    <allowance>
+        <FloatingLicenseDescriptor>
+    <display>IntelliJ IDEA Ultimate</display>
+    <item_id>dfeaef9b-8b72-42b5-af57-06c212ba9d72</item_id>
+    <allowance>II:20211130:L</allowance>
+    <quantity>50</quantity>
+    <trueUp>false</trueUp>
+    <isPlugin>false</isPlugin>
+</FloatingLicenseDescriptor>
+<FloatingLicenseDescriptor>
+    <display>PyCharm</display>
+    <item_id>b7431061-38e4-4a7e-a80b-43c571126645</item_id>
+    <allowance>PC:20211131:L</allowance>
+    <quantity>50</quantity>
+    <trueUp>false</trueUp>
+    <isPlugin>false</isPlugin>
+</FloatingLicenseDescriptor>
+<FloatingLicenseDescriptor>
+    <display>Code With Me</display>
+    <item_id>f1d18ade-b350-4413-8e90-3a743d5fda0c</item_id>
+    <allowance>PCWMP:2024100:L</allowance>
+    <quantity>50</quantity>
+    <trueUp>false</trueUp>
+    <isPlugin>false</isPlugin>
+</FloatingLicenseDescriptor>
+    </allowance>
+    <productReleases>
+        <ProductReleases>
+            <display>IntelliJ IDEA Ultimate</display>
+            <releases>2021300:20211130</releases>
+        </ProductReleases>
+        <ProductReleases>
+            <display>PyCharm</display>
+            <releases>2021300:20211201</releases>
+        </ProductReleases>
+        <ProductReleases>
+            <display>Code With Me</display>
+            <releases>2021300:20211130</releases>
+        </ProductReleases>
+    </productReleases>
+    <!-- 产品code和uuid对应关系 -->
+    <!-- FloatingServerStateResponse.v -->
+    <productMapping>
+        <ProductMapping>
+            <uuid>49c202d4-ac56-452b-bb84-735056242fb3</uuid>
+            <edition></edition>
+            <code>II</code>
+        </ProductMapping>
+        <ProductMapping>
+            <uuid>e8d15448-eecd-440e-bbe9-1e5f754d781b</uuid>
+            <edition></edition>
+            <code>PC</code>
+        </ProductMapping>
+        <ProductMapping>
+            <uuid>PCWMP</uuid>
+            <edition></edition>
+            <code>PCWMP</code>
+        </ProductMapping>
+    </productMapping>
+    <infoMessages>
+        <InfoMessage>
+            <msg>Java 是世界上最好的语言!</msg>
+            <level>INFO</level>
+            <internal>true</internal>
+        </InfoMessage>
+        <InfoMessage>
+            <msg><![CDATA[<a href="https://bbs.pediy.com/" target="_blank">bbs.pediy.com</a>]]></msg>
+            <level>WARN</level>
+            <internal>false</internal>
+        </InfoMessage>
+        <InfoMessage>
+            <msg>Your server has been successfully registered.</msg>
+            <level>ERROR</level>
+            <internal>false</internal>
+        </InfoMessage>
+    </infoMessages>
+</FloatingServerStateResponse>
