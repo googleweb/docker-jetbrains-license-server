@@ -38,7 +38,7 @@ COPY license-server-patch/.jb-license-server/ /data/.jb-license-server/
 COPY license-server-patch/ja-netfilter/ /opt/jetbrains-license-server/ja-netfilter/
 COPY license-server-patch/conf/license-server.jvmoptions /opt/jetbrains-license-server/conf/license-server.jvmoptions
 
-EXPOSE 8000
+EXPOSE 8080
 WORKDIR /data
 VOLUME [ "/data" ]
 
