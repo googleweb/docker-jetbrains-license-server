@@ -4,7 +4,7 @@ TZ=${TZ:-UTC}
 
 JLS_PATH="/opt/jetbrains-license-server"
 JLS_LISTEN_ADDRESS="0.0.0.0"
-JLS_PORT=8000
+JLS_PORT=8080
 JLS_CONTEXT=${JLS_CONTEXT:-/}
 JLS_ACCESS_CONFIG=${JLS_ACCESS_CONFIG:-/data/access-config.json}
 JLS_PROXY_TYPE=${JLS_PROXY_TYPE:-https}
