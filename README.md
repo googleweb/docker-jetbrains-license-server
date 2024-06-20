@@ -53,8 +53,8 @@ cd docker-jetbrains-license-server
 # Build image and output to docker (default)
 docker buildx bake
 
-# Build multi-platform image
-docker buildx bake image-all
+# run ,命令JLS_VIRTUAL_HOSTS=ip中设置为你真实访问的url中的ip或者域名
+docker run -d -p 8000:8080 --name jetbrains_license_server -e TZ="Asia/Shanghai" -e JLS_VIRTUAL_HOSTS=ip jls:local
 ```
 
 ## Image
@@ -100,7 +100,7 @@ docker buildx bake image-all
 
 ## Ports
 
-* `8000`: Jetbrains License Server HTTP port
+* `8080`: Jetbrains License Server HTTP port ,必须为8080
 
 ## Usage
 
@@ -114,27 +114,6 @@ following commands:
 ```bash
 docker compose up -d
 docker compose logs -f
-```
-
-### Command line
-
-You can also use the following minimal command:
-
-```bash
-$ docker run -d -p 8000:8000 --name jetbrains_license_server \
-  -e TZ="Europe/Paris" \
-  -e JLS_VIRTUAL_HOSTS=jls.example.com \
-  -v $(pwd)/data:/data \
-  crazymax/jetbrains-license-server:latest
-```
-
-## Upgrade
-
-Recreate the container whenever I push an update:
-
-```bash
-docker compose pull
-docker compose up -d
 ```
 
 ## Notes
